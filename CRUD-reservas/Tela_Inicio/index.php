@@ -21,7 +21,7 @@
                     <p>Acesse as seguintes funções.</p>
                     <a class="btn btn-primary btn-lg" href="../Cadastro_Espaco/tela_espaco.php" role="button">Gerenciamento de Espaço</a>
                     <a class="btn btn-primary btn-lg" href="../Gerenciamento_User/tela_gerenciamento.php" role="button">Gerenciamento de Usuários</a>
-                    <a class="btn btn-primary btn-lg" href="" role="button">Sistema de Reservas</a>
+                    <a class="btn btn-primary btn-lg" href="../Sistema_Reservas.php" role="button">Sistema de Reservas</a>
                 </div>
             </div>
         </div>

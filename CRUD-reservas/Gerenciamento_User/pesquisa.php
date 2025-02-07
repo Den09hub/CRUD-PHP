@@ -86,7 +86,7 @@
             </button>
           </div>
           <div class="modal-body">
-              <form action="excluir_user.php" method="POST">
+              <form action="excluir.php" method="POST">
             <p>Tem certeza que deseja excluir <b id="nome_user">Nome do Usuário</b>?</p>
           </div>
           <div class="modal-footer">

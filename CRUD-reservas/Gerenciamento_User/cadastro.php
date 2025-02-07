@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col">
                 <h1>Cadastro de Usuário</h1>
-                <form action="cadastro_user_script.php" method="POST">
+                <form action="cadastro_user.php" method="POST">
                     <div class="form-group">
                         <label for="nome_user">Nome</label>
                         <input type="text" class="form-control" name="nome_user" required>

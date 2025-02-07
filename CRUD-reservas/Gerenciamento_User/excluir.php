@@ -16,7 +16,7 @@
             <?php
                 include "../Conecxao/connect.php";
                 $id = $_POST['id'];
-                $nome = $_POST["nome_user"];
+                $nome = $_POST["nome"];
 
                 $sql = "DELETE from Usuarios WHERE id_user = $id";
                 
