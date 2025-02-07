@@ -27,7 +27,7 @@
         <div class="row">
             <div class="col">
                 <h1>Alteração de Cadastro</h1>
-                <form action="editar_script.php" method="POST">
+                <form action="editar.php" method="POST">
                     <div class="form-group">
                         <label for="nome">Nome</label>
                         <input type="text" class="form-control" name="nome" required value="<?php echo $linha['nome']; ?>">

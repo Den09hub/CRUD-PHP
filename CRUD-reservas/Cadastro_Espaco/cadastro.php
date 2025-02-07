@@ -15,7 +15,7 @@
         <div class="row">
             <div class="col">
                 <h1>Cadastro de Espaço</h1>
-                <form action="cadastro_script.php" method="POST">
+                <form action="cadastro_espaco.php" method="POST">
                     <div class="form-group">
                         <label for="nome">Nome</label>
                         <input type="text" class="form-control" name="nome" required>
