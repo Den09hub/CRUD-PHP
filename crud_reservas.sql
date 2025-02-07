@@ -9,6 +9,7 @@ create table Espaco (
     nome varchar(150) not null,
     tipo varchar(150) not null,
     capacidade int not null,
+    descricao text not null,
     primary key(id_esp)
 );
 
