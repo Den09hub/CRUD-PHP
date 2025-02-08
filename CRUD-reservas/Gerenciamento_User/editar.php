@@ -31,7 +31,7 @@
             ?>
 
             <hr>
-            <a href="pesquisa_user.php" class="btn btn-primary">Voltar</a>
+            <a href="pesquisa.php" class="btn btn-primary">Voltar</a>
 
         </div>
     </div>
